@@ -1,0 +1,6 @@
+{
+  "name": "ai-1",
+  "version": "1.0.0",
+  "description": "Telegram AI Bot",
+  "main": "src/index.js"
+}

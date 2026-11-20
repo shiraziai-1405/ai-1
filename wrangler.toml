@@ -1,6 +1,11 @@
-name = "shirazi-ai"
+name = "ai-1"
 main = "src/index.js"
 compatibility_date = "2023-10-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "telegram-bot-db"
+database_id = "881adc9b-5ff2-4f45-9888-12ab202db365"
 
 [vars]
 # CONFIG_URL = "https://raw.githubusercontent.com/shiraziai-1405/ai-1/main/config.json"
