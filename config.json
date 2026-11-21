@@ -1,0 +1,13 @@
+{
+  "bot_settings": {
+    "welcome_message": "سلام {name}، به ربات شیرازی خوش آمدی!",
+    "help_message": "پیامت را ارسال کن تا پاسخ بدهم."
+  },
+  "ai_settings": {
+    "provider_url": "https://api.avalai.ir/v1/chat/completions",
+    "model": "deepseek-v3.2",
+    "system_prompt": "تو دستیار هوشمند فارسی‌زبان هستی. دقیق، مفید و حرفه‌ای پاسخ بده.",
+    "max_tokens": 2000,
+    "temperature": 0.7
+  }
+}
