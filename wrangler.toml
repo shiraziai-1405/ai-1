@@ -8,4 +8,4 @@ database_name = "telegram-bot-db"
 database_id = "881adc9b-5ff2-4f45-9888-12ab202db365"
 
 [vars]
-# CONFIG_URL = "https://raw.githubusercontent.com/shiraziai-1405/ai-1/main/config.json"
+# CONFIG_URL = "https://raw.githubusercontent.com/shiraziai-1405/ai-1/main/config.json?utm_source=chatgpt.com"
